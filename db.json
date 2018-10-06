@@ -1,0 +1,39 @@
+{"details" :[{
+"Departure" : "Delhi",
+"destination" : "Amsterdam",
+"TimeofDeparture" : "8.45 am",
+"Status" : "On-time"
+},
+{
+    "Departure" : "Delhi",
+    "destination" : "Athens",
+    "TimeofDeparture" : "9.45 amsterdam",
+    "Status" : "On-time"   
+},
+{
+    "Departure" : "Delhi",
+    "destination" : "Doha",
+    "TimeofDeparture" : "10.05 am",
+    "Status" : "On-time"   
+},
+{
+    "Departure" : "Delhi",
+    "destination" : "Seoul",
+    "TimeofDeparture" : "12.05 pm",
+    "Status" : "Delayed"   
+},
+{
+    "Departure" : "Delhi",
+    "destination" : "New york City",
+    "TimeofDeparture" : "12.05 pm",
+    "Status" : "Scheduled"   
+},
+{
+    "Departure" : "Delhi",
+    "destination" : "Paris",
+    "TimeofDeparture" : "2.10 pm",
+    "Status" : "Cancelled"   
+}]
+}
+
+
